@@ -1,0 +1,7 @@
+Query_ID,Trial_ID,Field_Name,Discrepancy_Description,Priority,Status
+Q-001,RBR-10zsdjr9,results_date,Mandatory completion field missing: Results,High,Open
+Count of Query_ID,Column Labels,,,Medium,Open
+Row Labels,Open,Resolved,Grand Total,High,Resolved
+High,2,1,3,High,Open
+Medium,1,,1,,
+Grand Total,3,1,4,,
